@@ -1,2 +1,2 @@
-A non empty readme
-The start of git project
+A non empty readme updated
+
